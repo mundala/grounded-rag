@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What did the Growth Console data-integrity audit find about the demand series?",
+    "expect": "placeholder"
+  },
+  {
+    "question": "What is Namrin Market built with?",
+    "expect": "react"
+  },
+  {
+    "question": "Which venue does the Mamao booking prototype serve?",
+    "expect": "200"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "expect": "NOT IN SOURCES"
+  },
+  {
+    "question": "What was the closing share price of Telstra last Tuesday?",
+    "expect": "NOT IN SOURCES"
+  },
+  {
+    "question": "How many goals did Jean score in the 2019 AFL grand final?",
+    "expect": "NOT IN SOURCES"
+  }
+]
